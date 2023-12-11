@@ -4,7 +4,7 @@ This is a  🦒
 
 
 
-## Local Development
+## Local Development 🦁
 Install the project's dependencies:
 
 📘
