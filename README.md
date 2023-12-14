@@ -10,7 +10,7 @@ This is a  🦒
 ## Local Development 
 Install the project's dependencies:
 
-📘
+
 ```
 yarn install
 ```
