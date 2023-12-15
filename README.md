@@ -1,4 +1,4 @@
-This is a  🦒
+This is a  
 [Tina CMS](https://tina.io/) project.
 
 
