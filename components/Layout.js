@@ -3,6 +3,7 @@ import Head from 'next/head'
 
 export const Layout = (props) => {
   return (
+    
     <div
       style={{
         margin: '3rem',
