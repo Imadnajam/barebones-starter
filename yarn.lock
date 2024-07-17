@@ -8151,10 +8151,10 @@ tinacms@1.6.5:
     yup "^0.32.0"
     zod "^3.14.3"
 
-tinacms@^1.6.6:
-  version "1.6.6"
-  resolved "https://registry.yarnpkg.com/tinacms/-/tinacms-1.6.6.tgz#5485e9678862fe451f9265d0336cbfa48b9ec3ee"
-  integrity sha512-OjVxlNbb68d9eccQazBgpW/yCWSw0UvHmqiXpB9NGqcDcRs1+hpENaTzVNejuqQ5joYg/DIpueFHEkjuQDbAeQ==
+tinacms@^1.6.7:
+  version "1.6.7"
+  resolved "https://registry.yarnpkg.com/tinacms/-/tinacms-1.6.7.tgz#274b2ce7a4a3d64ed83122f7c78c9d0236fca71e"
+  integrity sha512-Q2YO2qZQdtKQz344Bf3EXjqsKS6pxSsU7TSGLj/PUubBo8LlD6R4oHH/t+A2rHouLCqFprBibZDFnbz5dF0LAw==
   dependencies:
     "@floating-ui/dom" "^1.6.6"
     "@floating-ui/react-dom" "^2.0.1"
