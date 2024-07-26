@@ -1998,10 +1998,10 @@
     lodash.merge "^4.6.2"
     postcss-selector-parser "6.0.10"
 
-"@tinacms/app@2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@tinacms/app/-/app-2.0.1.tgz#14c188820591d841257cf7ddb4aa4ebca9151c36"
-  integrity sha512-1y95OC9RG2T6QNvNqSBVEaK6XVqEU7jPOerkrdo7ndMUV4KkEgDmCQuCaibfLNzC8TVQ9igg7IjAeKglrWAbiQ==
+"@tinacms/app@2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@tinacms/app/-/app-2.0.2.tgz#c3f39e5045fbb68e3b376865abe08f1e9bccfbfa"
+  integrity sha512-OKEUkARztecmdZhRbRBhR2pOhq2ekNYn8tm1KCSt1jqlTcYbfA9cy+iwftx4Uyfb2AnaSpMWkmHHinncAU+GDw==
   dependencies:
     "@graphiql/toolkit" "0.8.4"
     "@headlessui/react" "1.6.6"
@@ -2019,10 +2019,10 @@
     typescript "^5.5.3"
     zod "^3.14.3"
 
-"@tinacms/cli@^1.5.51":
-  version "1.5.51"
-  resolved "https://registry.yarnpkg.com/@tinacms/cli/-/cli-1.5.51.tgz#e55d2a62179baab2331f22941633c028f505cc55"
-  integrity sha512-XJsU8mNr0vqbSqXwibndsJiwcBFgiRdszbuCevHaRXgtR8Kn8KCk97WrVyyjq3A1ykGZQKUPR62+rX/q6qg5Mw==
+"@tinacms/cli@^1.5.52":
+  version "1.5.52"
+  resolved "https://registry.yarnpkg.com/@tinacms/cli/-/cli-1.5.52.tgz#3e9ec8265c5e9047e975462b025a06b312b9dbe0"
+  integrity sha512-8Q1291mold5Lz6TktWKng5ftRQx70jb3pBTodaQ/pEjFJw08zYySKPqrnOtwVwK2UOjrfAfNa62e34lm34IE0g==
   dependencies:
     "@graphql-codegen/core" "^2.1.0"
     "@graphql-codegen/plugin-helpers" latest
@@ -2036,7 +2036,7 @@
     "@svgr/core" "8.1.0"
     "@tailwindcss/aspect-ratio" "^0.4.2"
     "@tailwindcss/typography" "^0.5.13"
-    "@tinacms/app" "2.0.1"
+    "@tinacms/app" "2.0.2"
     "@tinacms/graphql" "1.4.39"
     "@tinacms/metrics" "1.0.5"
     "@tinacms/schema-tools" "1.5.0"
